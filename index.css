@@ -1,0 +1,635 @@
+.end-child,
+.frame-child,
+.frame-inner,
+.frame-item,
+.plane-1-icon,
+.rectangle-icon {
+  position: absolute;
+  top: 139px;
+  left: 3px;
+  width: 1279px;
+  height: 1035px;
+  object-fit: cover;
+}
+.end-child,
+.frame-inner,
+.frame-item,
+.rectangle-icon {
+  top: 2159px;
+}
+.end-child,
+.frame-inner,
+.rectangle-icon {
+  top: 3169px;
+}
+.end-child,
+.rectangle-icon {
+  top: 1147px;
+}
+.plane-1-icon {
+  top: 115.47px;
+  left: 30.98px;
+  width: 119.72px;
+  height: 120.88px;
+}
+.end-child {
+  top: 0;
+  left: 4px;
+  width: 1312px;
+  height: 255px;
+}
+.behance-1,
+.github-1,
+.insta-1 {
+  transition: .2s;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 162px;
+  left: 179px;
+  width: 40px;
+  height: 43px;
+  background-image: url(./public/github1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.behance-1,
+.insta-1 {
+  top: 166px;
+  left: 110px;
+  width: 44px;
+  height: 40px;
+  background-image: url(./public/behance1@3x.png);
+}
+.insta-1 {
+  top: 167px;
+  left: 47px;
+  width: 38px;
+  height: 38px;
+  background-image: url(./public/insta1@3x.png);
+}
+.address-h2-indraprastha {
+  position: absolute;
+  top: 98px;
+  left: 389px;
+  line-height: 30px;
+  display: inline-block;
+  width: 777px;
+  height: 67px;
+}
+.email-abhinavsharma262004gm {
+  margin: 0;
+}
+
+.email-abhinavsharma262004gm-container {
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  line-height: 30px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 419px;
+  height: 60px;
+}
+
+.bw-contact-1-icon {
+  position: absolute;
+  top: 22px;
+  left: 37px;
+  width: 260px;
+  height: 64px;
+  object-fit: cover;
+}
+.end {
+  position: absolute;
+  top: 4144px;
+  left: -4px;
+  width: 1312px;
+  height: 255px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.brand-identity,
+.we-had-to-container {
+  position: absolute;
+  top: 204px;
+  left: 540px;
+  display: inline-block;
+  width: 615px;
+  height: 327px;
+}
+.brand-identity {
+  top: 71px;
+  left: 273px;
+  font-size: 81.23px;
+  font-family: var(--font-tagtype);
+  text-align: left;
+  width: 616px;
+  height: 99px;
+}
+.bc1-2-icon,
+.bc2-1-icon,
+.e1-1-icon {
+  position: absolute;
+  top: 368px;
+  left: 247px;
+  width: 238px;
+  height: 137px;
+  object-fit: cover;
+}
+.bc2-1-icon,
+.e1-1-icon {
+  top: 223px;
+  left: 295px;
+  width: 217px;
+  height: 126px;
+}
+.e1-1-icon {
+  top: 225px;
+  left: 0;
+  width: 271px;
+  height: 124px;
+}
+.beach-1-icon,
+.beach-2-icon,
+.lh-1-icon {
+  position: absolute;
+  top: 368px;
+  left: 54px;
+  width: 164px;
+  height: 194px;
+  object-fit: cover;
+}
+.beach-1-icon,
+.beach-2-icon {
+  top: 0;
+  left: 80px;
+  width: 176px;
+}
+.beach-2-icon {
+  left: 905px;
+}
+.brand {
+  position: absolute;
+  top: 3477px;
+  left: 61px;
+  width: 1155px;
+  height: 562px;
+  text-align: right;
+}
+
+.animations,
+.techno-anima-icon,
+.tokyoghoulanimation-1-icon {
+  position: absolute;
+  top: 155px;
+  left: 60px;
+  width: 449px;
+  height: 338px;
+}
+.animations,
+.tokyoghoulanimation-1-icon {
+  left: 623px;
+  width: 448px;
+}
+.animations {
+  top: 0;
+  left: 362px;
+  display: inline-block;
+  width: 452px;
+  height: 99px;
+}
+.film-1-icon,
+.film-2-icon {
+  position: absolute;
+  top: 143px;
+  left: 10;
+  width: 557px;
+  height: 362px;
+  object-fit: cover;
+}
+.film-2-icon {
+  left: 563px;
+}
+.animation {
+  position: absolute;
+  top: 2903px;
+  left: 79px;
+  width: 1120px;
+  height: 505px;
+  font-size: 81.23px;
+  font-family: var(--font-tagtype);
+}
+
+.bg1-icon,
+.bg2-icon {
+  position: absolute;
+  top: 161px;
+  left: 105px;
+  width: 365px;
+  height: 316px;
+  object-fit: cover;
+  opacity: 1;
+  transition: .2s;
+}
+.bg1-icon {
+  left: 665px;
+}
+
+.ot-front-1-1 {
+  transition: .2s;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 552px;
+  width: 444px;
+  height: 577px;
+  background-image: url(./public/otfront11@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.odyssey-is-our-container,
+.odyssey1 {
+  position: absolute;
+  top: 220px;
+  left: 0;
+  display: inline-block;
+  width: 589px;
+  height: 215px;
+}
+.odyssey1 {
+  top: 80px;
+  left: 89px;
+  font-size: 81.23px;
+  font-family: var(--font-tagtype);
+  width: 372px;
+  height: 85px;
+}
+/* .sb-1-icon {
+  position: absolute;
+  top: 415px;
+  left: 56px;
+  width: 388px;
+  height: 148px;
+  object-fit: cover;
+} */
+
+.sb-1-icon {
+  transition: .2s;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 415px;
+  left: 56px;
+  width: 388px;
+  height: 148px;
+  background-image: url(./public/sb-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.bc1-icon,
+.odyssey {
+  position: absolute;
+  top: 2222px;
+  left: 201px;
+  width: 996px;
+  height: 577px;
+}
+.bc1-icon {
+  transition: .2s;
+  top: 207px;
+  left: 941px;
+  width: 157px;
+  height: 245px;
+  object-fit: cover;
+  opacity: 0;
+}
+
+.tshirt-icon {
+  transition: .2s;
+  position: absolute;
+  top: 205px;
+  left: 236px;
+  width: 158px;
+  height: 247px;
+  object-fit: cover;
+  opacity: 0;
+}
+
+.frame-2-icon,
+.frame-3-icon,
+.techno-icon {
+  position: absolute;
+  top: 163px;
+  left: 908px;
+  width: 226px;
+  height: 334px;
+  object-fit: cover;
+}
+
+.techno-icon {
+  transition: .2s;
+  top: 205px;
+  left: 588px;
+  width: 156px;
+  height: 247px;
+  opacity: 0;
+}
+
+.frame-2-icon{
+  top: 205px;
+  left: 583px;
+  width: 167px;
+  height: 248px;
+}
+
+.frame-2-icon {
+  top: 162px;
+  left: 554px;
+  width: 226px;
+  height: 334px;
+}
+
+.frame-1-icon:hover ~ .tshirt-icon{
+  opacity: 1;
+}
+
+
+.bw-projects-2-icon,
+.frame-1-icon {
+  position: absolute;
+  top: 202px;
+  left: 236px;
+  width: 159px;
+  height: 254px;
+  object-fit: cover;
+}
+
+.bw-projects-2-icon,
+.frame-1-icon {
+  top: 163px;
+  left: 203px;
+  width: 226px;
+  height: 334px;
+}
+.bw-projects-2-icon {
+  top: 0;
+  left: 0;
+  width: 521.52px;
+  height: 135.74px;
+}
+.projects {
+  position: absolute;
+  top: 1701px;
+  left: 21px;
+  width: 1134px;
+  height: 497px;
+}
+.hi-my-name-container {
+  position: absolute;
+  top: 136px;
+  left: 138px;
+  display: inline-block;
+  width: 579px;
+  height: 305px;
+}
+.bw-about-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 347px;
+  height: 110px;
+  object-fit: cover;
+}
+
+.about,
+.smile-icon {
+  position: absolute;
+  top: 1011px;
+  left: 49px;
+  width: 717px;
+  height: 441px;
+}
+.smile-icon {
+  top: 0;
+  left: 12px;
+  width: 564px;
+  height: 775px;
+  object-fit: cover;
+}
+.away-icon,
+.color-child,
+.me {
+  position: absolute;
+  width: 577px;
+  height: 794px;
+}
+.away-icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.color-child,
+.me {
+  top: 995px;
+  left: 685px;
+}
+.color-child {
+  top: -23px;
+  left: -55px;
+  background-color: #2a2a2a;
+  width: 1312px;
+  height: 155px;
+}
+.bw-abhinav-1,
+.bw-about-1,
+.color-abhinav-1,
+.color-about-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 172px;
+  height: 82px;
+  background-image: url(./public/colorabhinav1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.bw-abhinav-1,
+.bw-about-1,
+.color-about-1 {
+  top: 28px;
+  width: 168px;
+  height: 77px;
+  background-image: url(./public/bwabhinav1@3x.png);
+}
+.bw-about-1,
+.color-about-1 {
+  top: 39px;
+  left: 198px;
+  width: 147px;
+  height: 49px;
+  background-image: url(./public/colorabout1@3x.png);
+}
+.bw-about-1 {
+  top: 43px;
+  left: 203px;
+  width: 139px;
+  height: 44px;
+  background-image: url(./public/bwabout1@3x.png);
+}
+.color-projects-1 {
+  top: 47.05px;
+  left: 373.03px;
+  width: 198.15px;
+  height: 52.91px;
+  transform: rotate(-2.45deg);
+  transform-origin: 0 0;
+  background-image: url(./public/colorprojects1@3x.png);
+}
+.bw-contact-1,
+.bw-projects-1,
+.color-contact-1,
+.color-projects-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.bw-projects-1 {
+  top: 47.65px;
+  left: 372px;
+  width: 198.68px;
+  height: 47.49px;
+  transform: rotate(-2.45deg);
+  transform-origin: 0 0;
+  background-image: url(./public/bwprojects1@3x.png);
+}
+.bw-contact-1,
+.color-contact-1 {
+  top: 42px;
+  left: 1018px;
+  width: 177px;
+  height: 49px;
+  background-image: url(./public/colorcontact1@3x.png);
+}
+.bw-contact-1 {
+  top: 43px;
+  left: 1015px;
+  width: 179px;
+  height: 44px;
+  background-image: url(./public/bwcontact1@3x.png);
+}
+.color {
+  position: absolute;
+  top: 2px;
+  left: 40px;
+  width: 1240px;
+  height: 132px;
+}
+.bw-abhinav-2-icon,
+.hero-illustration-1 {
+  position: absolute;
+  top: 139px;
+  left: 239px;
+  width: 834px;
+  height: 856px;
+  object-fit: cover;
+}
+.bw-abhinav-2-icon {
+  top: 463px;
+  left: 460px;
+  width: 353px;
+  height: 188px;
+}
+.rectangle-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4370px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-fuzzy-bubbles);
+}
+
+.bw-abhinav-1:hover{
+  opacity: 0;
+}
+
+.bw-about-1:hover{
+  opacity: 0;
+}
+
+.bw-projects-1:hover{
+  opacity: 0;
+}
+
+.bw-contact-1:hover{
+  opacity: 0;
+}
+
+.away-icon:hover{
+  opacity: 0;
+}
+
+.bc1-icon:hover{
+  opacity: 1;
+}
+
+.techno-icon:hover{
+  opacity: 1;
+}
+
+.tshirt-icon:hover{
+  opacity: 1;
+}
+
+.behance-1:hover{
+  transform: scale(1.2);
+}
+
+.insta-1:hover{
+  transform: scale(1.2);
+}
+
+.github-1:hover{
+  transform: scale(1.2);
+}
+
+.ot-front-1-1:hover{
+  transform: scale(1.1);
+}
+
+.sb-1-icon:hover{
+  transform: scale(1.1);
+}
+
+.bg1-icon:hover{
+  opacity: 0;
+}
+
+.bg2-icon:hover{
+  opacity: 0;
+}

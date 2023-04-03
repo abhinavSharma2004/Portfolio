@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-fuzzy-bubbles: "Fuzzy Bubbles";
+  --font-tagtype: TagType;
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-62xl-2: 81.2px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+}
