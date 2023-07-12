@@ -1,10 +1,7 @@
 
-  # Portfolio
+Abhinav Sharma 
+Portfolio
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+This website showcases my work as a designer and is developed and designed by me. I used HTML, CSS, and Javascript to code the site. All assets used are made by me for the website itself or some other project I was working on. I plan on adding more of my projects to it later and making a few more changes along the way.  I hope you enjoy my portfolio. 
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+Website link: https://abhinavsharma2004.github.io/Portfolio/
