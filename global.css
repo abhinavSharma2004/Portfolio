@@ -6,7 +6,7 @@ body {
 :root {
   /* fonts */
   --font-fuzzy-bubbles: "Fuzzy Bubbles";
-  --font-tagtype: TagType;
+  --font-tagtype: "TagType";
   --font-open-sans: "Open Sans";
 
   /* font sizes */
